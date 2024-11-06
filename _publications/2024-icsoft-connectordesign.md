@@ -2,7 +2,7 @@
 title: "Design of Adaptable and Secure Connectors for Software Architectures"
 collection: publications
 # category: conferences
-permalink: /publication/DesignOfAdaptableSecureConnectors
+permalink: /publication/2024-icsoft-connectordesign
 excerpt: '**Juan Marcelo Gutierrez Carballo**, Michael Shin, Hassan Gomaa'
 date: 'July 2024'
 venue: 'Proceedings of the 19th International Conference on Software Technologies'
