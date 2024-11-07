@@ -8,7 +8,7 @@ author_profile: true
 
 **Research Support Assistant**, [Beihang University](https://ev.buaa.edu.cn/) <i style="float:right;text-align:right;">Beijing, China, 2019 – 2021</i>
 
-**Fullstack Developer**, [TOGABOL S.R.L.](https://togabolsrl.bol/) <i style="float:right;text-align:right;">Santa Cruz, Bolivia, 07/2018 – 07/2019</i>
+**Full Stack Developer**, [TOGABOL S.R.L.](https://togabolsrl.bol/) <i style="float:right;text-align:right;">Santa Cruz, Bolivia, 07/2018 – 07/2019</i>
 
 **Math Lab Tutor**, [West Texas A&M University](https://www.wtamu.edu/) <i style="float:right;text-align:right;">Canyon, Texas, 08/2016-05/2018</i>
 
