@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Juan Gutierrez"
+title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +22,7 @@ You can read my full CV [here](), or find me on Google Scholar via this [link](h
 ## Publications
 
 {% for post in site.publications reversed %}
-  {% include archive-paper.html %}
+    {% include archive-single.html %}
 {% endfor %}
 
 ## Experience
