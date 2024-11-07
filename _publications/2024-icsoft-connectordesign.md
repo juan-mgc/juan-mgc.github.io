@@ -1,6 +1,6 @@
 ---
 title: "Design of Adaptable and Secure Connectors for Software Architectures"
-permalink: "https://www.scitepress.org/PublicationsDetail.aspx?ID=mh/mJYGWO0Y=&t=1"
+link: "https://www.scitepress.org/PublicationsDetail.aspx?ID=mh/mJYGWO0Y=&t=1"
 collection: publications
 excerpt: '**Juan Marcelo Gutierrez Carballo**, Michael Shin, Hassan Gomaa'
 date: July 2024
