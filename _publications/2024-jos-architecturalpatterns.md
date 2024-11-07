@@ -6,6 +6,6 @@ excerpt: 'Michael Shin, Hassan Gomaa, Taeghyun Kang, **Juan Marcelo Gutierrez Ca
 date: 'Sept 2024'
 venue: 'Journal of Software: Practice and Experience'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'files/AdaptableandSecureConnectorsforSoftwareArchitectures.pdf'
+#paperurl: ''
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
