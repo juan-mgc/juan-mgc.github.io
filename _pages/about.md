@@ -16,41 +16,7 @@ I received my B.S. degree at West Texas A&M University, was in the dean's list a
 
 I am focused on advancing *adaptable software architectures* within the field of software engineering. My research emphasizes designing solutions that dynamically address evolving requirements, allowing systems to *adapt seamlessly* to changes in *security, functionality, and other critical areas*. By leveraging state-machine-driven methods, my work seeks to reduce architectural complexity by managing adaptation and other concerns separately from core application logic.
 
-You can read my full CV [here](), or find me on Google Scholar via this [link](https://scholar.google.com/citations?user=wN_VhAoAAAAJ&hl=en) 
-
-
-## Publications
-
-{% for post in site.publications reversed %}
-    {% include archive-single.html %}
-{% endfor %}
-
-## Experience
-
-**Researcher**, [Beihang University](https://ev.buaa.edu.cn/) <i style="float:right;text-align:right;">Beijing, China, 2019 – 2021</i>
-
-**Fullstack Developer**, [TOGABOL S.R.L.](https://togabolsrl.bol/) <i style="float:right;text-align:right;">Santa Cruz, Bolivia, 08/2019 – 01/2022</i>
-
-**Math Lab Tutor**, [West Texas A&M University](https://www.wtamu.edu/) <i style="float:right;text-align:right;">Canyon, Texas, 08/2016-05/2018</i>
-
-
-## Teaching Assistantship
-
-**TTU CS5384** _Logic for Computer Scientists_ <i style="float:right;text-align:right;">Fall 2024</i>
-
-**TTU CS5376** _Communication Networks_ <i style="float:right;text-align:right;">Fall 2024</i>
-
-**TTU CS5373** _Software Modeling and Architecture_ <i style="float:right;text-align:right;">Summmer 2024</i>
-
-**TTU CS6378** _Software Security_ <i style="float:right;text-align:right;">Spring 2024</i>
-
-**TTU CS5332** _Software Engineering: Software Analytics_ <i style="float:right;text-align:right;">Fall 2023</i>
-
-**TTU CS5341** _Pattern Recognition_ <i style="float:right;text-align:right;">Summmer 2023</i>
-
-**TTU CS1412** _Programming Principles_ <i style="float:right;text-align:right;">Summer 2023</i>
-
-**TTU CS4366** _Senior Capstone project_ <i style="float:right;text-align:right;">Spring 2023</i>
+You can read my full CV [here](/files/JuanMgcPhdResume.pdf), or find me on Google Scholar via this [link](https://scholar.google.com/citations?user=wN_VhAoAAAAJ&hl=en) 
 
 
 ## Selected Awards
