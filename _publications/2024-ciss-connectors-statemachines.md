@@ -2,7 +2,7 @@
 title: "[Under Review] Design of Secure Adaptable Connectors and State Machines for Software Architectures"
 collection: publications
 # category: manuscripts
-permalink: /publication/2024-ciss-connectors-statemachines
+# permalink: /publication/2024-ciss-connectors-statemachines
 excerpt: '**Juan Marcelo Gutierrez Carballo**, Michael Shin, Hassan Gomaa'
 date: Nov 2024
 venue: 'Communications in Computer and Information Science (CCIS)'
