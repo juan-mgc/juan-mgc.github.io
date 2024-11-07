@@ -2,7 +2,6 @@
 title: "[Under Review] A Software Product Line Approach for Design of Secure Software Architectural Patterns with Secure Connectors"
 collection: publications
 # category: manuscripts
-permalink: 'https://scholar.google.com/citations?user=wN_VhAoAAAAJ&hl=en'
 excerpt: 'Michael Shin, **Juan Marcelo Gutierrez Carballo**, Hassan Gomaa'
 date: 'Sept 2024'
 venue: 'Journal of Software: Practice and Experience'
