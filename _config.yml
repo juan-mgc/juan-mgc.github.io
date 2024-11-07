@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Juan Marcelo Gutierrez Carballo"
+title                    : "Juan Marcelo Gutierrez"
 title_separator          : "-"
-name                     : &name "Juan Marcelo Gutierrez Carballo"
+name                     : &name "Juan Marcelo Gutierrez"
 description              : &description "personal description"
 url                      : https://juan-mgc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "juan-mgc/juan-mgc.github.io"
 author:
   # Biographic information
   avatar           : "profileJMGC.jpg"
-  name             : "Juan Marcelo Gutierrez Carballo"
+  name             : "Juan Marcelo Gutierrez"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Texas Tech University"
   location         : "Lubbock, TX"
