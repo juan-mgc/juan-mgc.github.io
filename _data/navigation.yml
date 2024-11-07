@@ -9,12 +9,9 @@ main:
     url: /files/JuanMgcPhdResume.pdf
     
   - title: "Publications"
-    url: /publications/ 
-
-  - title: "Teaching"
-    url: /teaching/  
+    url: /publications/  
     
-  - title: "Industry Experience"
+  - title: "Experience"
     url: /experience/   
     
   # - title: "Portfolio"
