@@ -10,13 +10,20 @@ redirect_from:
 
 ## Hi!
 
-I am **Juan Marcelo Gutierrez Carballo** (Juan), a second year Ph.D. student in Computer Science at [Texas Tech University](https://www.ttu.edu/), advised by [Prof. Michael Shin](https://www.depts.ttu.edu/cs/faculty/michael_eonsuk_shin/index.php).
+I am **Juan Marcelo Gutierrez Carballo** (Juan), a Ph.D. Candidate in Computer Science at [Texas Tech University](https://www.ttu.edu/), advised by [Prof. Michael Shin](https://www.depts.ttu.edu/cs/faculty/michael_eonsuk_shin/index.php).
 
-I received my B.S. degree at West Texas A&M University, was in the dean's list and graduated with honors.
+I received my B.S. degree at West Texas A&M University, where I graduated with honors and was on the Dean’s List.
 
-I am focused on advancing *adaptable software architectures* within the field of software engineering. My research emphasizes designing solutions that dynamically address evolving requirements, allowing systems to *adapt seamlessly* to changes in *security, functionality, and other critical areas*. By leveraging state-machine-driven methods, my work seeks to reduce architectural complexity by managing adaptation and other concerns separately from core application logic.
+My research focuses on cybersecurity and secure distributed systems. I design and implement secure communication and recovery mechanisms that strengthen post-compromise resilience and system reliability. My work combines formal modeling, protocol design, and practical system implementation to build adaptable and secure software architectures.
+
+In addition to research, I have taught and assisted in 10 graduate and undergraduate courses at Texas Tech, covering software security, communication networks, secure software design, and systems programming.
 
 You can read my full CV [here](/files/JuanMgcPhdCV.pdf), or find me on Google Scholar via this [link](https://scholar.google.com/citations?user=wN_VhAoAAAAJ&hl=en) 
+
+
+## Certifications
+
+**Google Cybersecurity Professional Certificate**, Google	<i style="float:right;text-align:right;">Issued September 2025</i>
 
 
 ## Selected Awards
