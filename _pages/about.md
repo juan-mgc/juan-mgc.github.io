@@ -28,6 +28,8 @@ You can read my full CV [here](/files/JuanMgcPhdCV.pdf), or find me on Google Sc
 
 ## Selected Awards
 
+**Graduate Teaching Assistant of the Year**, Dept. of Computer Science, College of Engineering, Texas Tech University	<i style="float:right;text-align:right;">05/2026</i>
+
 **CS Ph.D. Fellowship**, Texas Tech	<i style="float:right;text-align:right;">Since January 2023</i>
 
 **MASTA Scholarship**, Beihang University	<i style="float:right;text-align:right;">09/2019-08/2020</i>
