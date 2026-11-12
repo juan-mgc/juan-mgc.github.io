@@ -4,14 +4,20 @@ permalink: /experience/
 author_profile: true
 ---
 
+
+## Research Experience
+
+**Ph.D. Researcher** – Secure Software Architectures, [Texas Tech University](https://www.ttu.edu/) (Advisor: Dr. Michael Shin)	<i style="float:right;text-align:right;">01/2023 – Present</i>
+
+**Research Support Assistant**, [Beihang University](https://ev.buaa.edu.cn/) <i style="float:right;text-align:right;">2019 – 2021</i>
+
+-----
+
 ## Industry Experience
 
-**Research Support Assistant**, [Beihang University](https://ev.buaa.edu.cn/) <i style="float:right;text-align:right;">Beijing, China, 2019 – 2021</i>
+**Web Developer**, Self-Employed <i style="float:right;text-align:right;">2018 – 2022</i>
 
-**Freelance Web Developer** <i style="float:right;text-align:right;">2018 – 2022</i>
-
-**Math Lab Tutor**, [West Texas A&M University](https://www.wtamu.edu/) <i style="float:right;text-align:right;">Canyon, Texas, 08/2016-05/2018</i>
-
+-----
 
 ## Teaching Experience
 
@@ -20,7 +26,7 @@ Instructor of record for 3 lab sections of CS 1412 Programming Principles, about
 
 **Graduate Teaching Assistant**, [Texas Tech University](https://www.ttu.edu/) <i style="float:right;text-align:right;">Spring 2023 - Spring 2026</i>
 
-#### Courses supported
+### Courses supported
 
 TTU CS4331 _Programming Massively Parallel Processors_ (Undergraduate) <i style="float:right;text-align:right;">Spring 2026</i>
 
@@ -44,8 +50,12 @@ TTU CS1412 _Programming Principles_ (Undergraduate) <i style="float:right;text-a
 
 TTU CS4366 _Senior Capstone project_ (Undergraduate) <i style="float:right;text-align:right;">Spring 2023</i>
 
+**Math Lab Tutor**, [West Texas A&M University](https://www.wtamu.edu/) <i style="float:right;text-align:right;">08/2016 - 05/2018</i>
+
+-----
 
 ## Service
 
-**Sub-reviewer**, SEKE 2026 (Int. Conf. on Software Engineering and Knowledge Engineering), _3 papers_	<i style="float:right;text-align:right;">2026</i>
+**Sub-reviewer**, SEKE 2026, _3 papers_	<i style="float:right;text-align:right;">2026</i>
+
 **Volunteer Exam Proctor**, Department of Computer Science, Texas Tech University <i style="float:right;text-align:right;">2023 - Present</i>
