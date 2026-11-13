@@ -22,6 +22,7 @@ author_profile: true
 ## Teaching Experience
 
 **Graduate Part-Time Instructor (GPTI)**, [Texas Tech University](https://www.ttu.edu/) <i style="float:right;text-align:right;">Fall 2026 - Summer 2027</i>
+
 Instructor of record for 3 lab sections of CS 1412 Programming Principles, about 30 students each (about 90 per semester)
 
 **Graduate Teaching Assistant**, [Texas Tech University](https://www.ttu.edu/) <i style="float:right;text-align:right;">Spring 2023 - Spring 2026</i>
