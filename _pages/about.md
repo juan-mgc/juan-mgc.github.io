@@ -10,13 +10,13 @@ redirect_from:
 
 ## Hi!
 
-I am **Juan Marcelo Gutierrez Carballo** (Juan), a Ph.D. Candidate in Computer Science at [Texas Tech University](https://www.ttu.edu/), advised by [Prof. Michael Shin](https://www.depts.ttu.edu/cs/faculty/michael_eonsuk_shin/index.php).
+My name is **Juan Marcelo Gutierrez Carballo** (Juan). I'm a Ph.D. candidate in Computer Science at [Texas Tech University](https://www.ttu.edu/), where I research how distributed software systems can stay secure while they change and recover at runtime.
 
-I received my B.S. degree at West Texas A&M University, where I graduated with honors and was on the Dean’s List.
+My work, with [Dr. Michael Shin](https://www.depts.ttu.edu/cs/faculty/michael_eonsuk_shin/index.php), focuses on secure software architectures: designing adaptable connectors and state machines that switch security protocols at runtime, and secure recovery connectors that protect in-flight messages after a security breach. This work has been published at ICSOFT and in Springer's CCIS series.
 
-My research focuses on cybersecurity and secure distributed systems. I design and implement secure communication and recovery mechanisms that strengthen post-compromise resilience and system reliability. My work combines formal modeling, protocol design, and practical system implementation to build adaptable and secure software architectures.
+Looking ahead, I'm interested in crypto-agile systems that can migrate to post-quantum algorithms without downtime, formal verification of security protocols, evaluation on real-world middleware, and self-adaptive systems where AI-driven decisions stay within guaranteed safety bounds.
 
-In addition to research, I have taught and assisted in 10 graduate and undergraduate courses at Texas Tech, covering software security, communication networks, secure software design, and systems programming.
+Teaching is central to who I am. As a Graduate Part-Time Instructor I teach three lab sections of Programming Principles, designing the syllabus, lectures, assignments and exams. In 2026 I was named the department's Graduate Teaching Assistant of the Year.
 
 You can read my full CV [here](/files/JuanMgcPhdCV.pdf), or find me on Google Scholar via this [link](https://scholar.google.com/citations?user=wN_VhAoAAAAJ&hl=en) 
 
