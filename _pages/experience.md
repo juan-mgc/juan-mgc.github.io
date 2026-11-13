@@ -13,17 +13,22 @@ author_profile: true
 
 -----
 
+
+
 ## Industry Experience
 
 **Web Developer**, Self-Employed <i style="float:right;text-align:right;">2018 – 2022</i>
 
 -----
 
+
+
 ## Teaching Experience
 
 **Graduate Part-Time Instructor (GPTI)**, [Texas Tech University](https://www.ttu.edu/) <i style="float:right;text-align:right;">Fall 2026 - Summer 2027</i>
 
 Instructor of record for 3 lab sections of CS 1412 Programming Principles, about 30 students each (about 90 per semester)
+
 
 **Graduate Teaching Assistant**, [Texas Tech University](https://www.ttu.edu/) <i style="float:right;text-align:right;">Spring 2023 - Spring 2026</i>
 
@@ -51,9 +56,12 @@ TTU CS1412 _Programming Principles_ (Undergraduate) <i style="float:right;text-a
 
 TTU CS4366 _Senior Capstone project_ (Undergraduate) <i style="float:right;text-align:right;">Spring 2023</i>
 
+
 **Math Lab Tutor**, [West Texas A&M University](https://www.wtamu.edu/) <i style="float:right;text-align:right;">08/2016 - 05/2018</i>
 
 -----
+
+
 
 ## Service
 
